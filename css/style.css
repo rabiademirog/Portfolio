@@ -1,0 +1,52 @@
+.portfolio{
+    display:block;
+    text-align: center;
+    justify-content: center;
+}
+
+.top-container{
+    background-color: #F7FFE5;
+}
+
+h1{
+    color: green;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+h2 {
+    color: #AAC8A7;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 6%;
+    margin: 100px auto;
+}
+.picture{
+    border-radius:50%;
+}
+.nav-link{
+    color:green
+}
+.bottom-container{
+    background-color: #F7FFE5;
+}
+#contact a:link{
+    color:white;
+    text-decoration: none;
+}
+#contact button{
+  background-color: green;
+  border-radius: 10px;
+  padding:10px;
+}
+.bottom-container{
+    padding-top:0px;
+    padding-bottom:50px;
+}
